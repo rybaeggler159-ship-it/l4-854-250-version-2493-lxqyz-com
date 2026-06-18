@@ -1,0 +1,8 @@
+parsed_movies: 2000
+detail_pages: 2000
+html_pages: 2020
+analytics_html_pages: 2020
+category_counts: {'rihan-hot': 167, 'asian-selection': 167, 'romance-healing': 167, 'suspense-crime': 167, 'fantasy-adventure': 167, 'comedy-family': 167, 'action-hotblood': 167, 'drama-wordofmouth': 167, 'costume-history': 166, 'variety-doc': 166, 'global-cinema': 166, 'new-release': 166}
+category_total: 2000
+image_files_in_output: 0
+missing_internal_html_links: []
